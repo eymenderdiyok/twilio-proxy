@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "twilio": "^5.8.0"
+  }
+}
